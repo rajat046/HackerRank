@@ -4,6 +4,7 @@ Given the meal price (base cost of a meal), tip percent (the percentage of the m
 
 Note: Be sure to use precise values for your calculations, or you may end up with an incorrectly rounded result!
 */
+
 import java.lang.Math;
 import java.util.Scanner;
 
