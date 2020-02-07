@@ -9,7 +9,6 @@ Complete the code in the editor below. The variables i, d, and s are already dec
 	2. Print the sum of d plus your double variable to a scale of one decimal place on a new line.
 	3. Concatenate s with the string you read as input and print the result on a new line.
 Note: If you are using a language that doesn't support using + for string concatenation (e.g.: C), you can just print one variable immediately following the other on the same line. The string provided in your editor must be printed first, immediately followed by the string you read as input.
-
 */
 
 import java.io.*;
